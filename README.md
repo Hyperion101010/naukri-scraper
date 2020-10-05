@@ -4,7 +4,7 @@ This is a bot to download/scrape different job profiles posted on Naukri.com.
 The instructions are simple, 
 
 Install the dependencies,
-Open terminal and run "python scarper.py"
+Open terminal and run "python scraper.py"
 
 It downloads and saves jobs in its sub-categories automatically in the form of excel sheets. 
 
