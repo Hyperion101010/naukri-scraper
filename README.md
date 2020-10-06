@@ -1,7 +1,6 @@
 
 naukri-scraper
 
-This is a bot to download/scrape different job profiles posted$
 
 The instructions are simple,
 
